@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter 2.0.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter_2._0.Form1.resources
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter_2._0.Properties.Resources.resources
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter 2.0.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\bin\Debug\Imaconverter 2.0.exe.config
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\bin\Debug\Imaconverter 2.0.exe
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\bin\Debug\Imaconverter 2.0.pdb
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter 2.0.csproj.CopyComplete
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter 2.0.exe
+C:\Users\Admin\source\repos\Imaconverter 2.0\Imaconverter 2.0\obj\Debug\Imaconverter 2.0.pdb
